@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|c:\\somegitstuff\\\u0438\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\beintheirminds\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|c:\\somegitstuff\\\u0438\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\beintheirminds\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|solutionrelative:ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|c:\\somegitstuff\\\u0438\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\beintheirminds\\damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809D27A-4308-450B-AA1F-0F2DFC6B734E}|BeInTheirMind.csproj|solutionrelative:damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:41:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamageType.cs",
+              "DocumentMoniker": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\DamageType.cs",
+              "RelativeDocumentMoniker": "DamageType.cs",
+              "ToolTip": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\DamageType.cs",
+              "RelativeToolTip": "DamageType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:35:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\IEntity.cs",
+              "RelativeDocumentMoniker": "IEntity.cs",
+              "ToolTip": "C:\\SomeGitStuff\\\u0418\u0433\u0440\u0430 \u0432\u0435\u043A\u0430\\BeInTheirMinds\\IEntity.cs",
+              "RelativeToolTip": "IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:30:56.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
